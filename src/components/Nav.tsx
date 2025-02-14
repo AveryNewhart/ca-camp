@@ -1,15 +1,14 @@
 import React from 'react';
 import { Container } from '@mantine/core';
 
-const HistorySection = () => {
+const Nav = () => {
   return (
     <>
       <Container fluid >
-        <p>Work History / Education </p>
-        <p>key accomplishments</p>
+        <p>Nav bar</p>
       </Container>
     </>
   );
 };
 
-export default HistorySection;
+export default Nav;
